@@ -3,4 +3,4 @@ Autocircle is an application i made that draws random shapes at random locations
 
 Credits to:
 
-giganlak
+nyapommy
